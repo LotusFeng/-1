@@ -77,7 +77,7 @@ setTimeout(() => {
     n += 1;
     step();
    } 
-},50)
+},10)
 }
 step()
 
